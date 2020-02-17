@@ -1,6 +1,6 @@
 export default [
   { 
-    title: 'Tarefas', 
+    title: 'Tasks', 
     creatable: true,
     cards: [
       {
@@ -30,7 +30,7 @@ export default [
     ]
   },
   { 
-    title: 'Fazendo', 
+    title: 'Doing', 
     creatable: false,
     cards: [
       {
@@ -48,7 +48,7 @@ export default [
     ]
   },
   { 
-    title: 'Pausado', 
+    title: 'Paused', 
     creatable: false,
     cards: [
       {
@@ -71,7 +71,7 @@ export default [
     ]
   },
   { 
-    title: 'Concluído', 
+    title: 'Done', 
     creatable: false,
     done: true,
     cards: [
